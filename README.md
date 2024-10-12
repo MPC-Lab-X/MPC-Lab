@@ -21,10 +21,6 @@ MathPhysChemLab is a powerful, pure front-end Web-APP designed to enhance learni
 - **KaTeX**: For rendering complex mathematical expressions.
 - **Web APIs**: For file handling, storage, and more.
 
-## How to Use
-
-Visit the [MathPhysChemLab](https://mathscichem.github.io) website.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
